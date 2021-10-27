@@ -1,0 +1,16 @@
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.exe
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.deps.json
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.runtimeconfig.json
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.runtimeconfig.dev.json
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.dll
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\ref\filmes.dll
+C:\TI\Aulas\FilmesIfElse\filmes\bin\Debug\net5.0\filmes.pdb
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.csproj.AssemblyReference.cache
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.AssemblyInfoInputs.cache
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.AssemblyInfo.cs
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.csproj.CoreCompileInputs.cache
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.dll
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\ref\filmes.dll
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.pdb
+C:\TI\Aulas\FilmesIfElse\filmes\obj\Debug\net5.0\filmes.genruntimeconfig.cache
